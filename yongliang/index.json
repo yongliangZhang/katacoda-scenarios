@@ -19,7 +19,7 @@
   },
   "environment": {
     "showdashboard": true,
-    "dashboards": [{"name": "Display 30080", "port": 30080}]
+    "dashboards": [{"name": "kubeSphere", "port": 30880}]
   },
   "backend": {
     "imageid": "kubernetes-cluster"
